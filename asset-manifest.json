@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ask_my_guru_fe_web/static/css/main.aa990fed.css",
-    "main.js": "/ask_my_guru_fe_web/static/js/main.cebfba41.js",
+    "main.js": "/ask_my_guru_fe_web/static/js/main.aa5b744d.js",
     "static/js/453.e53eea87.chunk.js": "/ask_my_guru_fe_web/static/js/453.e53eea87.chunk.js",
     "service-worker.js": "/ask_my_guru_fe_web/service-worker.js",
     "index.html": "/ask_my_guru_fe_web/index.html",
     "main.aa990fed.css.map": "/ask_my_guru_fe_web/static/css/main.aa990fed.css.map",
-    "main.cebfba41.js.map": "/ask_my_guru_fe_web/static/js/main.cebfba41.js.map",
+    "main.aa5b744d.js.map": "/ask_my_guru_fe_web/static/js/main.aa5b744d.js.map",
     "453.e53eea87.chunk.js.map": "/ask_my_guru_fe_web/static/js/453.e53eea87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa990fed.css",
-    "static/js/main.cebfba41.js"
+    "static/js/main.aa5b744d.js"
   ]
 }
