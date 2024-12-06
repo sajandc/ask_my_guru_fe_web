@@ -13,7 +13,7 @@ const root = document.getElementById("root");
 
 ReactDOM.createRoot(root).render(
   <Provider store={CreateStore.store}>
-    <BrowserRouter>
+    <BrowserRouter basename="/ask_my_guru_fe_web">
       <ThemeProvider>
         <Routes>
           <Route path="/" element={<App />} />

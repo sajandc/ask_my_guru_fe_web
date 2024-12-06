@@ -2,7 +2,7 @@
   "name": "ask_my_guru_fe_web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sajandc.github.io/ask_my_guru_fe_web/",
+  "homepage": "https://sajandc.github.io/ask_my_guru_fe_web",
   "dependencies": {
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
